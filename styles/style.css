@@ -6,3 +6,8 @@ body {
 .features {
     border-radius: 5rem;
 }
+
+
+hr {
+    color: white;
+}
